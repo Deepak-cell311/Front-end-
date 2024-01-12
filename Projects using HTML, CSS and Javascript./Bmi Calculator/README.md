@@ -1,4 +1,4 @@
-# This is project is based on the Calculation of BMI(Body mass Index).
+# This project is based on the Calculation of BMI(Body mass Index).
 
 1. It takes two inputs from the user.
 2. First input for the height in centimeters(cms).
