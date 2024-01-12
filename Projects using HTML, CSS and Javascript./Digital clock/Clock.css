@@ -1,0 +1,53 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+}
+
+body{
+    background: black;
+}
+
+.circle{
+    border: 10px solid red;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+    padding: 100px;
+    border-radius: 50%;
+    width: 19%;
+    height: 231px;
+
+}
+
+.eye{
+    color: aliceblue;
+    display: inline-block;
+    border: 2px solid yellow;
+    border-radius: 65px;
+    margin: -6px 26px 190px 8px;
+    padding: 80px 20px 27px 15px;
+
+}
+.shape{
+    border: 20px solid white;
+    margin: auto;
+    border-radius: 50%;
+    margin: -18px -5px 0px -1px;
+
+
+}
+
+.mouth{
+    border: 2px solid orange;
+    padding: 22px 0px 6px 190px;
+    margin: 155px 7px 0px -203px;
+    border-radius:20px ;
+}
+
+#time{
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+    margin: 180px 24px 28px -166px;
+    padding: 0px 0px 0px 0px;
+}
